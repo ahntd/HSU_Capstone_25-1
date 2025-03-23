@@ -19,7 +19,7 @@
 
 ## API 명세서
 
-| 카테고리 | API 엔드포인트                       | HTTP 메서드 | 설명                               |
+| 카테고리 | API URL                              | HTTP 메서드 | 설명                               |
 | -------- | ------------------------------------ | ----------- | ---------------------------------- |
 | 회원     | `/api/signup`                        | POST        | 회원 가입                            |
 | 회원     | `/api/login`                         | POST        | 로그인                               |
@@ -36,12 +36,13 @@
 | 리뷰     | `/api/reviews/sent`                   | GET         | 내가 보낸 리뷰                       |
 | 리뷰     | `/api/reviews/received`               | GET         | 내가 받은 리뷰                       |
 | 채팅     | `/api/users/{userId}/chatrooms`       | GET         | 내 채팅 목록 보기                    |
-| 채팅     | `/ws/localhost:8080/ws/chat/{chatRoomId}` | WebSocket   | 채팅 소켓                            |
+| 채팅     | `ws://localhost:8080/ws/chat/{chatRoomId}` | WebSocket   | 채팅 소켓                            |
 | 채팅     | `/api/chatroom/{chatRoomId}/recent`    | GET         | 최근 채팅 보기                       |
 | 채팅     | `/api/chatroom/{chatRoomId}/{beforeChatId}` | GET         | 커서 기반 채팅 보기                  |
 
 
 ## 코드
+준비중
 
 ## App 설치
 준비중
