@@ -2,22 +2,26 @@
 
 
 ## 목차
-1. [목차](#목차)
-2. [홈페이지](#홈페이지)
-3. [기능구성도](#기능구성도)
-4. [API 명세서](#api-명세서)
-5. [코드](#코드)
-6. [App 설치](#app-설치)
-7. [시연동영상](#시연동영상)
-8. [작년 우수팀과 비교표](#작년-우수팀과-비교표)
+1. [홈페이지](#홈페이지)
+2. [기능구성도](#기능구성도)
+3. [API 명세서](#api-명세서)
+4. [코드](#코드)
+5. [App 설치](#app-설치)
+6. [시연동영상](#시연동영상)
+7. [작년 우수팀과 비교표](#작년-우수팀과-비교표)
 
 ## 홈페이지
 준비중
 
 ## 기능구성도
+<details>
+<summary>기능 구성도(클릭하면 내용 보입니다)</summary>
 <img width="1940" alt="api (10)" src="https://github.com/user-attachments/assets/fa36632d-202c-4275-bff7-da9c3edcec5a" />
+</details>
 
 ## API 명세서
+<details>
+<summary>API 명세서(클릭하면 내용 보입니다)</summary>
 
 | 카테고리 | API URL                              | HTTP 메서드 | 설명                               |
 | -------- | ------------------------------------ | ----------- | ---------------------------------- |
@@ -40,6 +44,7 @@
 | 채팅     | `/api/chatroom/{chatRoomId}/recent`    | GET         | 최근 채팅 보기                       |
 | 채팅     | `/api/chatroom/{chatRoomId}/{beforeChatId}` | GET         | 커서 기반 채팅 보기                  |
 
+</details>
 
 ## 코드
 * **스프링부트:** [스프링부트 깃허브](https://github.com/ahntd/GJMarket)
@@ -48,12 +53,26 @@
 * **iOS:**
 
 ## App 설치
-준비중
+* **구글 플레이:**
+* **앱스토어:**
 
 ## 시연동영상
-* **스프링부트:** [스프링부트 시연 영상](https://youtu.be/UiS1OIlsih4)
-* **리액트:** [리액트 시연 영상](https://youtu.be/hFdoRUtjjQA)
-* **안드로이드:** [안드로이드 시연 영상](https://www.youtube.com/watch?v=xMk7SwkFhjE)
-* **iOS:** [iOS 시연 영상](https://youtu.be/Zw9TCDdYpcg)
+* **리액트 PC:** [리액트 시연 영상]()
+* **리액트 모바일:** [리액트 시연 영상]()
+* **안드로이드:** [안드로이드 시연 영상]()
+* **iOS:** [iOS 시연 영상]()
 
 ## 작년 우수팀과 비교표
+
+|  | 중고거래팀 | 최우수 | 우수1 | 우수2 | 우수3 |
+|------|--------|---------|---------|---------|---------|
+| Code | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Doc | ✅ | ✅ | ✅ | ❌ | ✅ |
+| 영상 | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 화면 | I,A,R | R | R | R | R |
+| AppStore/GooglePlay | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+최우수 : https://github.com/capstone-aloha</br>
+우수1 : https://github.com/TeamCookCaps</br>
+우수2 : https://github.com/godi00/capstone</br>
+우수3 : https://github.com/Capic2024/server-flask
