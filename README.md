@@ -48,13 +48,13 @@
 
 ## 코드
 * **스프링부트:** [스프링부트 깃허브](https://github.com/ahntd/GJMarket)
-* **리액트:**
-* **안드로이드:**
-* **iOS:**
+* **리액트:** [리액트 깃허브](https://github.com/)
+* **안드로이드:** [안드로이드 깃허브](https://github.com/)
+* **iOS:** [iOS 깃허브](https://github.com/)
 
 ## App 설치
-* **구글 플레이:**
-* **앱스토어:**
+* **구글 플레이:** [구글 플레이](https://play.google.com/store/)
+* **앱스토어:** [앱스토어](https://www.apple.com/kr/app-store/)
 
 ## 시연동영상
 * **리액트 PC:** [리액트 시연 영상]
