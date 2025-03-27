@@ -49,7 +49,7 @@
 ## 코드
 * **스프링부트:** [스프링부트 깃허브](https://github.com/ahntd/GJMarket)
 * **리액트:** [리액트 깃허브](https://github.com/)
-* **안드로이드:** [안드로이드 깃허브](https://github.com/)
+* **안드로이드:** [안드로이드 깃허브](https://github.com/itwins15261/capstone_market_2025)
 * **iOS:** [iOS 깃허브](https://github.com/)
 
 ## App 설치
