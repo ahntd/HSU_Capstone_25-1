@@ -53,8 +53,8 @@
 * **iOS:** [iOS 깃허브](https://github.com/Edddd5/Capstone_2025_Ed)
 
 ## App 설치
-* **구글 플레이:** [구글 플레이](https://play.google.com/store/)
-* **앱스토어:** [앱스토어](https://www.apple.com/kr/app-store/)
+* **구글 플레이:** [구글 플레이]
+* **앱스토어:** [앱스토어]
 
 ## 시연동영상
 * **리액트 PC:** [리액트 시연 영상](https://youtu.be/MNVkm4-hUzU)
