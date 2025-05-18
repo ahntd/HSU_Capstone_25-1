@@ -57,8 +57,8 @@
 * **앱스토어:** [앱스토어]
 
 ## 시연동영상
-* **리액트 PC:** [리액트 시연 영상](https://youtu.be/MNVkm4-hUzU)
-* **리액트 모바일:** [리액트 시연 영상]
+* **리액트 PC:** [리액트 시연 영상](https://youtu.be/PF1xNjM_n0g?si=CPHJ5k_61kPszS3p)
+* **리액트 모바일:** [리액트 시연 영상](https://youtu.be/cRc4wXd3HnQ?si=mk5iUE0lxbq5avH6)
 * **안드로이드:** [안드로이드 시연 영상](https://www.youtube.com/watch?v=7134dcT4Fh0)
 * **iOS:** [iOS 시연 영상](https://youtu.be/MYrIviTE_Po)
 
