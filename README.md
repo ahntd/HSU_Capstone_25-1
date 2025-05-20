@@ -53,7 +53,7 @@
 * **iOS:** [iOS 깃허브](https://github.com/Edddd5/Capstone_2025_Ed)
 
 ## App 설치
-* **구글 플레이:** [구글 플레이]
+* **구글 플레이:** [구글 플레이](https://play.google.com/store/apps/details?id=com.hansung.capstone.hanlumi&pcampaignid=web_share)
 * **앱스토어:** [앱스토어]
 
 ## 시연동영상
