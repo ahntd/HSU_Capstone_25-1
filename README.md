@@ -54,7 +54,7 @@
 
 ## App 설치
 * **구글 플레이:** [구글 플레이](https://play.google.com/store/apps/details?id=com.hansung.capstone.hanlumi&pcampaignid=web_share)
-* **앱스토어:** [앱스토어]
+* **앱스토어:** [앱스토어](https://testflight.apple.com/join/yQcqahNg)
 
 ## 시연동영상
 * **리액트 PC:** [리액트 시연 영상](https://youtu.be/PF1xNjM_n0g?si=CPHJ5k_61kPszS3p)
