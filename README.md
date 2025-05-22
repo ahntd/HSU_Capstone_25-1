@@ -53,8 +53,8 @@
 * **iOS:** [iOS 깃허브](https://github.com/Edddd5/Capstone_2025_Ed)
 
 ## App 설치
-* **구글 플레이:** [구글 플레이](https://play.google.com/store/apps/details?id=com.hansung.capstone.hanlumi&pcampaignid=web_share)
-* **아이폰:** [아이폰](https://testflight.apple.com/join/yQcqahNg)
+* [안드로이드](https://play.google.com/store/apps/details?id=com.hansung.capstone.hanlumi&pcampaignid=web_share)
+* [아이폰](https://testflight.apple.com/join/yQcqahNg)
 
 ## 시연동영상
 * **리액트 PC:** [리액트 시연 영상](https://youtu.be/PF1xNjM_n0g?si=CPHJ5k_61kPszS3p)
