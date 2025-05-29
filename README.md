@@ -60,7 +60,7 @@
 * **리액트 PC:** [리액트 시연 영상](https://youtu.be/PF1xNjM_n0g?si=CPHJ5k_61kPszS3p)
 * **리액트 모바일:** [리액트 시연 영상](https://youtu.be/cRc4wXd3HnQ?si=mk5iUE0lxbq5avH6)
 * **안드로이드:** [안드로이드 시연 영상](https://www.youtube.com/watch?v=7134dcT4Fh0)
-* **iOS:** [iOS 시연 영상](https://youtu.be/MYrIviTE_Po)
+* **iOS:** [iOS 시연 영상](https://youtu.be/on6J6GwCQz8)
 
 ## 작년 우수팀과 비교표
 
