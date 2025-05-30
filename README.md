@@ -1,6 +1,6 @@
 # 중고거래팀
+![KakaoTalk_20250530_113613273_01](https://github.com/user-attachments/assets/dc447ac5-960f-4a70-9a15-5ce4e3cec627)
 
-![Uploading KakaoTalk_20250530_113613273_01.jpg…]()
 
 ## 목차
 1. [홈페이지](#홈페이지)
